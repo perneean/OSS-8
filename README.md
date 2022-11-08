@@ -1,12 +1,13 @@
 # OSS-8
+<img src = "https://user-images.githubusercontent.com/113653315/200646368-39c965da-35c9-4cbd-b4fe-a057c63bcc7f.png" width="100%" align="center">
 
-# 8 병합과 충돌
-### 1. 병합
+<img src = "https://user-images.githubusercontent.com/113653315/200644192-87f97037-a5c3-4efe-8a68-fc82317854fa.png" width="50%" align="center">
+
 > 브랜치 생성 목적 : 원본 코드에 영향을 주지 않고 **분리 개발**을 위해 
-
-**병합** : 분리된 브랜치를 한 브랜치로 합치는 작업
-
-깃의 브랜치 사용 : 자동 병합이 가능
+>
+>**병합** : 분리된 브랜치를 한 브랜치로 합치는 작업
+>
+>깃의 브랜치 사용 : 자동 병합이 가능
 
 <br>
 
@@ -33,7 +34,7 @@
 
 <br>
 
-#### 4. 실습 셋팅
+<img src = "https://user-images.githubusercontent.com/113653315/200645023-d6deb678-e39a-4e62-8277-46797f3a8f9d.png" width="50%" align="center">
 
 1. 별도 저장소 생성
 
@@ -53,7 +54,8 @@
 
 ---
 
-### 2.Fast-Forward 병합
+<img src = "https://user-images.githubusercontent.com/113653315/200645176-6bb3b705-70fd-4cdc-8646-f68a8f524e6f.png" width="50%" align="center">
+
 
 깃의 가장 간단한 브랜치 병합 방식. 혼자 개발할 때 사용. 
 
@@ -144,7 +146,7 @@ main 브랜치로 이동 후 파일 확인 시 feature 브랜치에서 작업한
 
 ---
 
-### 3. 3-way 병합
+<img src = "https://user-images.githubusercontent.com/113653315/200645395-e05d6320-4764-484d-b770-012484f9d9b2.png" width="50%" align="center">
 
 **3-way** : 복잡한 병합을 처리할 수 있는 방법
 
@@ -225,7 +227,7 @@ main 브랜치로 이동 후 파일 확인 시 feature 브랜치에서 작업한
   
 ---
 
-### 4. 브랜치 삭제
+<img src = "https://user-images.githubusercontent.com/113653315/200645505-7a64d978-b957-4d30-8026-b803e1aa0fa8.png" width="50%" align="center">
   
 일반적으로 병합한 이후, 병합된 브랜치는 삭제됨.
   
